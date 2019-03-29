@@ -10,6 +10,7 @@ namespace ConsoleApp1ForFirstSolution
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(" !Hi GitHub");
         }
     }
 }
